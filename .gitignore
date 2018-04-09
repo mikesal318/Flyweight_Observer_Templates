@@ -30,3 +30,5 @@ dependency-reduced-pom.xml
 *.idea
 
 README.html
+
+src/main/java/hello/Greeter.java
